@@ -1,0 +1,55 @@
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Fast_Ten_Fingers\Fast_Ten_Fingers\bin\Debug\Fast_Ten_Fingers.exe.config
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Fast_Ten_Fingers\Fast_Ten_Fingers\bin\Debug\Fast_Ten_Fingers.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Fast_Ten_Fingers\Fast_Ten_Fingers\bin\Debug\Fast_Ten_Fingers.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.AssemblyReference.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.Form1.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.Properties.Resources.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.GenerateResource.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.CoreCompileInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Udemy\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Fast_Ten_Fingers\Fast_Ten_Fingers\bin\Debug\Fast_Ten_Fingers.exe.config
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Fast_Ten_Fingers\Fast_Ten_Fingers\bin\Debug\Fast_Ten_Fingers.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Fast_Ten_Fingers\Fast_Ten_Fingers\bin\Debug\Fast_Ten_Fingers.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.AssemblyReference.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.Form1.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.Properties.Resources.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.GenerateResource.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.CoreCompileInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Fast_Ten_Fingers\Fast_Ten_Fingers\bin\Debug\Fast_Ten_Fingers.exe.config
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Fast_Ten_Fingers\Fast_Ten_Fingers\bin\Debug\Fast_Ten_Fingers.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Fast_Ten_Fingers\Fast_Ten_Fingers\bin\Debug\Fast_Ten_Fingers.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.AssemblyReference.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.Form1.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.Properties.Resources.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.GenerateResource.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.CoreCompileInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Github'a atılanlar\Fast_Ten_Fingers\Fast_Ten_Fingers\bin\Debug\Fast_Ten_Fingers.exe.config
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Github'a atılanlar\Fast_Ten_Fingers\Fast_Ten_Fingers\bin\Debug\Fast_Ten_Fingers.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Github'a atılanlar\Fast_Ten_Fingers\Fast_Ten_Fingers\bin\Debug\Fast_Ten_Fingers.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Github'a atılanlar\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.AssemblyReference.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Github'a atılanlar\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Github'a atılanlar\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.Form1.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Github'a atılanlar\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.Properties.Resources.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Github'a atılanlar\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.GenerateResource.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Github'a atılanlar\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.CoreCompileInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Github'a atılanlar\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Github'a atılanlar\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\newversion\Fast_Ten_Fingers\Fast_Ten_Fingers\bin\Debug\Fast_Ten_Fingers.exe.config
+C:\Users\Yıldıray KARASUBAŞI\Desktop\newversion\Fast_Ten_Fingers\Fast_Ten_Fingers\bin\Debug\Fast_Ten_Fingers.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\newversion\Fast_Ten_Fingers\Fast_Ten_Fingers\bin\Debug\Fast_Ten_Fingers.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\newversion\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.AssemblyReference.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\newversion\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\newversion\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.Form1.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\newversion\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.Properties.Resources.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\newversion\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.GenerateResource.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\newversion\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.csproj.CoreCompileInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\newversion\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\newversion\Fast_Ten_Fingers\Fast_Ten_Fingers\obj\Debug\Fast_Ten_Fingers.pdb
